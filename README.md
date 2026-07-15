@@ -9,10 +9,4 @@
 - **Backend:** Node.js, Python, FastAPI, PostgreSQL, Redis, REST/GraphQL
 - **Infra:** AWS, Docker, CI/CD
 
-**Selected projects** (pinned below)
-- 🔎 **grounded-rag**: production RAG app with citations, an eval harness, and a live demo
-- 📊 **llm-evalkit**: regression + LLM-as-judge evals with cost/latency tracking
-- 🤝 **hitl-agent**: a tool-calling agent that asks a human before sensitive actions
-- 🧰 **llm-reliability**: retry, validation/fallback, semantic cache, and a token/cost meter
-
 📫 tzheng403@gmail.com · [LinkedIn](https://www.linkedin.com/in/tony-zheng-8536a6267) · [Resume](https://tonyzheng.vercel.app/#experience)
